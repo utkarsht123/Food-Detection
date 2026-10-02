@@ -1,0 +1,4 @@
+*.pt
+runs/
+food_model_results_run1/
+__pycache__/
